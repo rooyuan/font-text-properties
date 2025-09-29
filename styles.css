@@ -36,7 +36,7 @@ body{
 	font-family: var(--body-fonts);
 	line-height: 1.5;
 	font-size: 1.1rem;
-	color: #222;
+	color: var(--dk-gray);
 	margin: 0;
 	padding: 0;
 }
